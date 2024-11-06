@@ -1,24 +1,10 @@
-# README
+# RAINBOW ROUTES README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Customize your rails app routes! checkout the rake file. 
 
-Things you may want to cover:
+Run it with 'rake routes:rainbow'
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<img width="468" alt="Screenshot 2024-11-05 at 9 33 47 PM" src="https://github.com/user-attachments/assets/737f9f8e-e303-49e8-a861-69c803a72924">
